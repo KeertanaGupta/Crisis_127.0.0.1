@@ -66,7 +66,7 @@ Our solution tackles these challenges with:
 ---
 
 ## System Architecture  
-![System Architecture](system_architecture.png
+![System Architecture](system_architecture.png)
 
 ---
 
