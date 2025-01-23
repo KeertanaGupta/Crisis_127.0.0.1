@@ -61,7 +61,14 @@ Our solution tackles these challenges with:
 - Python 3.9+  
 - Node.js and npm  
 - MongoDB setup  
-- Fitbit/Apple HealthKit developer account (for IoT integration)  
+- Fitbit/Apple HealthKit developer account (for IoT integration)
+
+---
+
+## System Architecture  
+![System Architecture](system_architecture.png
+
+---
 
 ### Installation  
 1. Clone the repository:  
