@@ -1,4 +1,3 @@
-# Crisis@127.0.0.1
 # AI-Powered Holistic Patient Recovery Assistant  
 ### Team Crisis@127.0.0.1  
 
@@ -17,51 +16,45 @@ The healthcare recovery system faces significant challenges:
 
 ## Solution Overview  
 Our solution tackles these challenges with:  
-1. *AI-Powered Personalized Plans*: Customized to the patient’s unique needs and treatment history.  
-2. *Real-Time Monitoring*: Wearables track vitals like heart rate and blood pressure.  
-3. *Digital Twin Technology*: Predicts potential recovery issues for proactive intervention.  
-4. *Teleconsultation and Chatbots*: Ensures 24/7 support and seamless follow-ups.  
+1. **AI-Powered Personalized Plans**: Customized to the patient’s unique needs and treatment history.  
+2. **Real-Time Monitoring**: Wearables track vitals like heart rate and blood pressure.  
+3. **Digital Twin Technology**: Predicts potential recovery issues for proactive intervention.  
+4. **Teleconsultation and Chatbots**: Ensures 24/7 support and seamless follow-ups.  
 
 ---
 
 ## Features  
-- *Patients*: Get tailored recovery plans accessible anytime, anywhere.  
-- *Providers*: Efficient tools for recovery management and proactive alerts.  
-- *Systems*: Reduced readmission rates, lower costs, and improved population health.  
+- **AI-Generated Recovery Plans**: Tailored care accessible anytime, anywhere.  
+- **Real-Time Vitals Monitoring**: Using wearable devices like Fitbit.  
+- **APIs for Healthcare Providers**: Streamlining recovery management.  
+- **Patients**: Get tailored recovery plans and real-time updates.  
+- **Providers**: Efficient tools for proactive recovery management.  
+- **Systems**: Reduced readmissions, lower costs, and improved population health.  
 
 ---
 
 ## Tech Stack  
-- *Frontend*: React Native (Intuitive user interface).  
-- *Backend*: Django/Flask (API and logic layer).  
-- *AI/ML*: TensorFlow (Predictive analytics and personalized plans).  
-- *Database*: MongoDB (Secure data storage).  
-- *IoT Integration*: Platforms like Fitbit and Apple HealthKit (Real-time data collection).  
+- **Frontend**: React Native (Intuitive user interface).  
+- **Backend**: Django/Flask (API and logic layer).  
+- **AI/ML**: TensorFlow (Predictive analytics and personalized plans).  
+- **Database**: MongoDB (Secure data storage).  
+- **IoT Integration**: Platforms like Fitbit and Apple HealthKit (Real-time data collection).  
 
 ---
 
 ## How It Works  
-1. *Patient Input*: Medical history and recovery goals are entered into the system.  
-2. *Plan Generation*: AI analyzes the data to create a personalized recovery plan.  
-3. *Monitoring*: Wearables track vitals and send real-time data.  
-4. *Alerts*: AI detects anomalies, updates plans, and notifies caregivers.  
-5. *Teleconsultation*: Patients receive follow-ups via video calls and chatbots.  
+1. **Patient Input**: Medical history and recovery goals are entered into the system.  
+2. **Plan Generation**: AI analyzes the data to create a personalized recovery plan.  
+3. **Monitoring**: Wearables track vitals and send real-time data.  
+4. **Alerts**: AI detects anomalies, updates plans, and notifies caregivers.  
+5. **Teleconsultation**: Patients receive follow-ups via video calls and chatbots.  
 
 ---
 
 ## Future Scope  
-- *AR-Based Therapy*: Enhancing physical rehabilitation through engaging visuals.  
-- *Voice-Assisted Recovery*: Making recovery tools accessible for the elderly and differently-abled.  
-- *AI for Public Health*: Identifying health trends and risks for early intervention.  
-
----
-
-## Getting Started  
-### Prerequisites  
-- Python 3.9+  
-- Node.js and npm  
-- MongoDB setup  
-- Fitbit/Apple HealthKit developer account (for IoT integration)
+- **AR-Based Therapy**: Enhancing physical rehabilitation through engaging visuals.  
+- **Voice-Assisted Recovery**: Making recovery tools accessible for the elderly and differently-abled.  
+- **AI for Public Health**: Identifying health trends and risks for early intervention.  
 
 ---
 
@@ -70,8 +63,17 @@ Our solution tackles these challenges with:
 
 ---
 
+## Getting Started  
+### Prerequisites  
+- Python 3.9+  
+- Node.js and npm  
+- MongoDB setup  
+- Fitbit/Apple HealthKit developer account (for IoT integration).  
+
+---
+
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/KeertanaGupta/Crisis_127.0.0.1.git
-   
+   git clone https://github.com/KeertanaGupta/Crisis_127.0.0.1.git  
+   cd Crisis_127.0.0.1  
