@@ -1,9 +1,8 @@
 # 🌟 AI-Powered Holistic Patient Recovery Assistant  
 ### Team Crisis@127.0.0.1  
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)  
-![License](https://img.shields.io/badge/license-MIT-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue) ![License](https://img.shields.io/badge/license-MIT-blue)
+
 
 Welcome to the future of healthcare recovery! Our *AI-Powered Holistic Patient Recovery Assistant* is designed to revolutionize post-treatment care by leveraging cutting-edge technology to provide personalized, accessible, and effective recovery solutions for patients worldwide.
 
